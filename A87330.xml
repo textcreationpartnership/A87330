@@ -1,0 +1,401 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rules, orders, and directions appointed by his Majesties Commissioners for executing the Act of Settlement and the Act of Explanation of the same, to be observed by all persons concerned before them.</title>
+            <author>Ireland. Commissioners for executing the Act of Settlement and the Act of Explanation.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1666</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87330</idno>
+            <idno type="STC">Wing I646</idno>
+            <idno type="STC">ESTC R226681</idno>
+            <idno type="EEBO-CITATION">99896359</idno>
+            <idno type="PROQUEST">99896359</idno>
+            <idno type="VID">154227</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87330)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154227)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2406:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Rules, orders, and directions appointed by his Majesties Commissioners for executing the Act of Settlement and the Act of Explanation of the same, to be observed by all persons concerned before them.</title>
+                  <author>Ireland. Commissioners for executing the Act of Settlement and the Act of Explanation.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by John Crook, printer to the Kings most excellent Majestie,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1666.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  1660-1688 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154227:1"/>
+            <pb facs="tcp:154227:1"/>
+            <pb facs="tcp:154227:2"/>
+            <pb facs="tcp:154227:2"/>
+            <p>RULES, ORDERS, and directions, appointed by his MAJESTIES COMMISSIONERS for EXECUTING the Act of
+SETTLEMENT And the Act of EXPLANATION OF the ſame, to be obſerved by all perſons concerned
+before them.</p>
+            <figure>
+               <figDesc>royal blazon or coat of arms</figDesc>
+               <p>HONI SOIT QVI MAL Y PENSE</p>
+               <p>DIEV ET MON DROIT</p>
+            </figure>
+            <p>DUBLIN, Printed by <hi>John Crook,</hi> Printer to the Kings Moſt Excellent Majeſtie.
+1666.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:154227:3" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:154227:3"/>
+            <head>Rules, Orders and Directions appointed by his Majeſties Com<g ref="char:EOLhyphen"/>miſſioners for Executing
+the Act of Settlement and the Act of Explanation of the ſame, to be obſerved by all perſons
+concerned before them.</head>
+            <p n="1">I <seg rend="decorInit">A</seg>LL Adventurers, and Souldiers, and Proteſtant purchaſors in <hi>Connaught,</hi>
+and <hi>Clare,</hi> and other perſons claiming any Lands, or Tenements by virtue of the ſaid
+Act of Settlement, or of the Explanatory Act (other then perſons already adjudged or reſtored)
+ſhall put in their petiti<g ref="char:EOLhyphen"/>ons or Schedules into the Regiſtry of the ſaid Commiſſioners
+within Thirty dayes after the date hereof, The ſaid Petitions to be under the hand and Seal of
+the partie claiming or under the hand and Seal of ſome Agent authorized by them, and ſigned
+alſo by one of the Attournies of this Court hereafter named.</p>
+            <p n="2">II. Every one ſo claiming ſhall in their ſaid Petition or a Schedule diſtinctly
+expreſs what Lands they or thoſe from whom they claim were poſſeſt of upon the 7th of
+<hi>May</hi> 1659. with the County and Barony where the ſame do lye, and alſo the denominations
+of the ſaid lands and the quantity of Acres profitable and unprofitable according to the
+<hi>Down</hi> Survey, where the ſaid <hi>Down</hi> Survey hath
+<pb n="4" facs="tcp:154227:4"/>been taken, And where the <hi>Down</hi> Survey hath
+not been taken, then by the Survey taken in the Earl of <hi>Straffords</hi> time, and if it be not
+within that Survey, then by ſome other Survey according to the directions in the ſaid
+Explanatory Act page the 10th, And where no Survey hath been taken, then the ſaid lands are to be
+deſcribed by the moſt apt and known Denominations both <hi>Engliſh</hi> and <hi>Iriſh</hi>
+that may be.</p>
+            <p n="3">III. Every one Claiming as aforeſaid, ſhall likewiſe in his Petition or Schedule
+ſet forth what lands they have loſt or been removed from ſince the ſaid 7th of <hi>May</hi>
+1659. whether by decree of the Court of Claimes or otherwiſe, and to whom the ſame is decreed,
+or re<g ref="char:EOLhyphen"/>ſtored, and what eſtate therein is decreed away, whether for life, or in remainder in Fee
+or for years.</p>
+            <p n="4">IV Every one ſo claiming ſhall likewiſe in his Petition or Schedule, expreſs
+diſtinctly what incumbrances the land he is now poſſeſt of is lyable unto, and to whom, and
+when, and by what Court the ſame were allowed or decreed, and for the receiving and entring the
+ſaid Petitions and Schedules no Fee is to be paid unto the Re<g ref="char:EOLhyphen"/>giſter.</p>
+            <p n="5">V Every Adventurer ſhall likewiſe ſet forth the name of the origi<g ref="char:EOLhyphen"/>nal Adventurer
+from whom he claimes, and the ſum of money that was paid, and ſhall likewiſe diſtinguiſh
+what lands he had ſet forth upon the doubling Ordinance, and if the lands were ſet out
+pro<g ref="char:EOLhyphen"/>miſcuouſly with other lands, then they do expreſs what money was lent upon the ſaid
+doubling Ordinance.</p>
+            <p n="6">VI. Every Souldier likewiſe to ſet forth in whoſe right, and for whoſe ſervice
+the land he claimeth was firſt ſet out.</p>
+            <p n="7">VII. Every Petition and Schedule after it hath been entred, and marked by the Regiſter
+ſhall be tranſmitted to our Sub-commiſſio<g ref="char:EOLhyphen"/>ners hereafter named, who are to examine, and
+compare the ſame
+<pb n="5" facs="tcp:154227:4"/>aſwell with the decrees formerly made (as to
+ſuch lands, which have been decreed away) as alſo with the Records remaining in the Surveyor
+Generals Office, where it ſhall be neceſſary, and to return them back into the Regiſtry
+with their examination, and with the ſtating of the Quit-rents due thereupon to his Majeſtie,
+After which the Commiſſioners will appoint convenient times for the final hearing and
+adjudication of the ſame.</p>
+            <p n="8">VIII. If any Adventurer, Souldier, or <hi>Connaght</hi> purchaſor or other perſon who
+by the Act is to enjoy two third parts of what he was poſſeſt of the 7th of <hi>May</hi>
+1659, is now poſſeſt of leſs then his due proportion, and yet ſhall deſire to take out
+his Certificate for what he is: now poſſeſt of, The Commiſſioners will proceed to heare
+his claim for ſo much as he is in poſſeſſion of, and to ſtate his deficiency for ſo
+much more, as ſhell by the Rules of the Act be due unto him, in order to his future reprizal and
+ſatisfaction.</p>
+            <p n="9">IX. If any Adventurer or Souldier &amp;c. have more in his poſſeſſion then his two
+thirds, he is to make his Election in his ſaid petition or ſchedule, of what third part he will
+quit, obſerving therein the Rules of the ſaid Explanatory Act page the 11th and 12th.</p>
+            <p n="10">X. If any Adventurer, Souldier &amp;c. having as aforeſaid more land in his
+poſſeſſion then his two thirds, have any deficiencies or other intereſt allowable by the
+ſaid Act to place upon his overplus; that he do expreſs, and mention the ſame in his
+petition, and if he have none now ready, he ſhall if he deſire the ſame in his petition have
+the preference for three months after the putting in the ſame, for placing any ſuch
+deficiencies, or other allowed intereſt upon the overplus now in his poſſeſſion, And if
+in three months he do not procure any, and give publike notice thereof to the Commiſſioners,
+That then the Commiſſioners will proceed to diſpoſe of the ſaid overplus to the uſes to
+which by the Act they are appointed, Nevertheleſs the ſaid Adventures, Souldiers &amp;c. having
+overplus as aforeſaid ſhall be at their liberty to take out their certificates immediately for
+the two thirds they ſhall elect to keep, if they ſhall deſire ſo to do.</p>
+            <pb n="6" facs="tcp:154227:5"/>
+            <p n="11">XI. Adventurer, Souldier &amp;c. who by decree of the Court of Claimes or otherwiſe
+have loſt any lands for life, or in remainder ſhall in their petitions make their election
+according to the rules mentioned in the ſaid explanatory Act page 23, and 24.</p>
+            <p n="12">XII. Adventurer, Souldier &amp;c. being poſſeſt of any Eſtate where the
+proprietor hath been decreed inoncent but left to the Law for recovery of his Eſtate, are
+likewiſe to make their election in their petitions if conveniently they can, or otherwiſe
+within three months after the firſt ſitting of the Commiſſioners at the fartheſt, whether
+they will ſtand the Tryall at Law, or quitt the land, and have recourſe to their proportionable
+ſatisfaction, according to the rules of the ſaid explanatory Act page 54, and 55.</p>
+            <p n="13">XIII. The truſtees for the Officers who ſerved His Majeſtie or his Royall Father of
+Bleſſed Memory before the 5th of <hi>June</hi> 1649, ſhall forthwith deliver unto the ſaid
+Commiſſioners a liſt in writing containing the names of all ſuch Officers, who they
+con<g ref="char:EOLhyphen"/>ceive are to be Poſt-poned, and likewiſe of all thoſe whoſe ar<g ref="char:EOLhyphen"/>reares are to be
+retrench't by virtue of an Order made by the Lord Lieutenant and Councell bearing date the 12th day
+of <hi>Janu<g ref="char:EOLhyphen"/>ary</hi> 1663, reducing thoſe Officers under the ſeverall titles and qualifications
+mentioned in the ſaid Order, to the end that due and publique notice may be given to all
+perſons concerned therein to ſhew cauſe (if they can) why their reſpective arreares
+ſhould not be retrench'd accordingly.</p>
+            <p n="14">XIV. The ſaid Truſtees ſhall likewiſe within thirty dayes deliver unto the ſaid
+Commiſſioners in writing a true Accompt of the valluati<g ref="char:EOLhyphen"/>ons of their ſecurity, as the ſame
+hath been return'd unto them, within the ſeverall Counties, Citties, Towns and of the <hi>Mile
+line,</hi> reſpectively where the ſame doth lye. And alſo of all ſuch in<g ref="char:EOLhyphen"/>cumbrances, and
+rights of Redemption as they have yet diſcove<g ref="char:EOLhyphen"/>red, and which are by the ſaid Acts part of the
+ſecurity of the ſaid Officers.</p>
+            <pb n="7" facs="tcp:154227:5"/>
+            <p n="15">XV. That ſuch of the Right Reverend Fathers in God the Biſhops who by the ſaid Act
+of Settlement are to have augmentations in Right of their Sees do alſo within thirty dayes
+deliver into the Commiſſioners a ſchedule of ſuch lands as they are already poſſeſt
+of in <hi>Cuſtodium,</hi> or by Patent or otherwiſe in Order to their ſaid augmentations,
+with the yearly value of the ſame, that what is wanting may according to the rules of the ſaid
+Act, and of the explanatory Act be ſupplyed unto them, and the overplus (if any be) may be
+retrench't.</p>
+            <p n="16">XVI. And the ſaid Right Reverend the Biſhops are deſired as ſoon as conveniently
+they can to certifie unto the Commiſſioners what Pariſhes within their reſpective
+Dioceſſes have leſs then Ten Acres of Gleabe, to the end care may be taken therein for their
+ſupply, in which caſe nevertheleſs Pariſhes that have been united by virtue of an Act
+Intituled, <hi>An Act for reall union of Pariſhes</hi> are to be eſteemed but as one
+Pariſh.</p>
+            <p n="17">XVII. The 54 perſons commonly called the Nominees and mentioned in the 101 and 102
+pages of the explanatory Act are deſired with<g ref="char:EOLhyphen"/>in thirty dayes if conveniently they can, or
+otherwiſe at fartheſt within two months to deliver in writing unto the Commiſſioners, the
+Denominations and quantity of Acres of ſuch lands, and Capitall Meſſuage or Caſtle, or
+ancient Seat (if any ſuch there be) which they ſhall elect to be reſtored unto, by virtue of
+the ſaid Clauſes relating unto them, and in whoſe poſſeſſion the ſame now are, and
+in what County and Barony the ſame do lye.</p>
+            <p n="18">XVIII. Where any perſon by colour of any Decree in the late Court of Claimes hath
+entred upon more land then did Rightfully be<g ref="char:EOLhyphen"/>long unto him, and was in his poſſeſſion the
+22th of <hi>October</hi> 1641. (unleſs the land were particularly expreſt in ſome clauſe of
+the ſaid Act of Settlement) that he diſcover the ſame, unto the Commisſioners and
+ſurrender up the land ſo entred upon, within three months at the fartheſt after their firſt
+ſitting according to the rules, and under the penalties contained in the ſaid explanatory Act
+page. 50. and 51.</p>
+            <pb n="8" facs="tcp:154227:6" rendition="simple:additions"/>
+            <p n="19">XIX. Thoſe who have been reſtored to any land by virtue of his Majeſties Letters,
+and have not ſince had any Adjudication of in<g ref="char:EOLhyphen"/>nocence, are likewiſe within thirty dayes to
+deliver in a ſchedule to the Commiſſioners of what lands they ſo enjoy with the quan<g ref="char:EOLhyphen"/>tities
+and Denominations thereof, and if they are ſo poſſeſt of more then two thouſand Acres
+they are to make their election, what part they will retain, provided the ſame did rightfully
+belong unto them on the 22th of <hi>October</hi> 1641. And do not exceed 2000. Acres as
+aforeſaid, that ſo they may be proceeded with according to the rules of the Act page 107.</p>
+            <p n="20">XX. All ſuch perſons who have been adjudged innocent Papiſts by the late Court of
+claimes, and have not yet taken out their Decrees, are forthwirh to apply themſelves to the
+taking out their ſaid De<g ref="char:EOLhyphen"/>cree, ſo as the ſaid Decrees be taken out at the fartheſt within
+three months after the firſt ſitting of the Commiſſioners at their peril, expreſt in the
+Act page 51.</p>
+            <p n="21">XXI. And whereas the Earl of <hi>Inchequin,</hi> the Earl of <hi>Clancarty; Theo<g ref="char:EOLhyphen"/>bald
+Purcell</hi>
+               <abbr>Eſq</abbr>
+               <hi>Dudley Bagnall</hi>
+               <abbr>Eſq</abbr>
+               <hi>Henry Bagnall</hi> and
+<hi>Katherine Corbett</hi> are particularly mentioned in the ſaid Act of Settlement to be
+reſtored to their former Eſtates without any previous repri<g ref="char:EOLhyphen"/>zall, and yet have hitherto
+neglected to take out their Decrees from the Commiſſioners, whereby it cannot appear what
+Eſtate they were poſſeſt of in 1641, nor what ſatisfaction is or ought to be given to
+ſuch Adventurers or Souldiers or other perſons as have been diſpoſſeſt by their ſaid
+reſtitution, for which reaſons they are by name required by the explanatory Act to take out
+their Decrees within ſuch time as the Commiſſioners ſhall appoint, the ſaid
+Com<g ref="char:EOLhyphen"/>miſſioners do think fit and accordingly do hereby appoint the time of two months from the
+date hereof ſhall be the time for the ſaid Earl of <hi>Inchequin,</hi> Earl of <hi>Clancarty,
+Theobald Purcell, Dudley Bagnall, Henry Bagnall,</hi> and <hi>Katherine Corbett,</hi> and alſo
+for <hi>Chriſtopher Eustace,</hi> and Sir. <hi>Andrew Aylmer</hi> of <hi>Dounada</hi> in the
+County of <hi>Kildare</hi> Knight, and Baronet (being in the ſame con<g ref="char:EOLhyphen"/>dition) to prove their
+poſſeſſion and right on the 22th of <hi>October</hi> 1641. and to take out their
+reſpective Decrees under the penalties mentioned in the ſaid explanatory Act page 50.</p>
+            <pb n="9" facs="tcp:154227:6" rendition="simple:additions"/>
+            <p n="22">XXII. All ſuch perſons as claim any new eſtate by virtue of any parti<g ref="char:EOLhyphen"/>cular
+proviſoe in either of the ſaid Acts, or by virtue of any grant or Patent mentioned in, or
+confirmed by either of the ſaid Acts, are likewiſe within Thirty dayes after the date hereof to
+put in to the Regiſters, a Petition or ſchedule expreſſing the date of their ſaid Patents
+or grants, with the particulars of the lands which they claim thereby, with the Denominations and
+quantity of Acres as before, and the names of the perſons in whoſe poſſes<g ref="char:EOLhyphen"/>ſion the ſaid
+lands now are, as farr as they know the ſame, to the end the ſame may be proceeded upon
+accordingly. And thoſe who are by the Rules of the Act to part with a third, are to make their
+Election according to the directions page 127.</p>
+            <p n="23">XXIII. Whereas the Earl of <hi>Clanrichard,</hi> The Counteſs <hi>Dowager</hi> of
+<hi>Barrimore,</hi> Sir <hi>Allexander Keith,</hi> and others mentioned in the 68 and 69 pages, and
+other places of the explanatory Act are to have their Arrears ſtated by the Commiſſioners,
+they are hereby required to be ready within thirty dayes after the date hereof, with their Accompts
+and certificates relating unto their ſervice, for which their Arrears are to be ſtated as
+aforeſaid.</p>
+            <p n="24">XXIV. The Regiſter ſhall keep an Alphabeticall Table of all claymants or Petitioners
+before the ſaid Commiſſioners with the day that their Petition or ſchedule was delivered
+in, and the Attournies name ſigning the ſame, which Table ſhall be hung up publiquely in the
+Court that reference may the more ſpeedily be had upon all occaſions to the Petition.</p>
+            <p n="25">XXV. No Petition or claim ſhall come to an Adjudication, till the name of the Claymant
+and the day appointed for hearing the ſame, have been publiquely ſet up in the Court, for the
+ſpace of fourteen dayes at the leaſt.</p>
+            <p n="26">XXVI. No man ſhall change his Attourney after he hath retain'd him, but by motion in
+open Court.</p>
+            <pb n="10" facs="tcp:154227:7"/>
+            <p n="27">XXVII. Where ſeverall perſons do claim the ſame lands, he that firſt bring<g ref="char:EOLhyphen"/>eth
+his claim to Tryall, ſhall give timely notice to the Attourney of the other.</p>
+            <p n="28">XXVIII. None are to be admitted to practice in this Court as Councellors, but ſuch as
+are admitted in the four Courts of <hi>Dublin.</hi>
+            </p>
+            <p n="39">XXXIX. All Attournies of this Court are ſtrictly enjoyned to give con<g ref="char:EOLhyphen"/>ſtant
+attendance on Court dayes upon pain of forfeiture of their imployment, except in caſes of
+ſickneſs, or Licence by the Court.</p>
+            <p n="30">XXX. That no Regiſter, Subcommiſſioner, Attourney or other Officer of this Court
+during the time he ſhall continue in this imployment do by himſelf or others to his uſe,
+directly or indirectly purchaſe any of the lands, or Tenements which ſhall fall under the
+Adjudi<g ref="char:EOLhyphen"/>cation of the Commiſſioners by virtue of either of the ſaid Acts, in purſuance of
+what is required of them page the 54 of the Act of Settlement.</p>
+            <p n="31">XXXI. As to all Caſes where the proof of the poſſesſion the 7th of <hi>May</hi>
+1659, or of the poſſesſion the 22th of <hi>October</hi> 1641, is requi<g ref="char:EOLhyphen"/>red that the ſame be
+made in open Court <hi>viva voce</hi> at the time of hearing, and ſo in all other caſes where
+witneſſes are neceſſary, except where particular Order ſhall be given to the
+contrary.</p>
+            <p n="32">XXXII. Where Affidavits are neceſſary, no Councell ſhall move upon them till they
+are filed.</p>
+            <p n="33">XXXIII. Where any particular Order hath been graunted in any caſe no Councell to move
+upon or againſt the ſaid Order without produ<g ref="char:EOLhyphen"/>cing a Coppy thereof.</p>
+            <pb n="11" facs="tcp:154227:7"/>
+            <p n="34">XXXIV. The Regiſter ſhall ſet up publiquely in the Court a Table of the names of
+all the ſworn Officers of the Court and of their reſ<g ref="char:EOLhyphen"/>pective Fees.</p>
+            <p n="35">XXXV. No perſon unleſs the Clerks belonging to the Regiſtry or other ſworn
+Officers of the Court ſhall come into the Office of the Regiſtry unleſs it be in preſence
+of one or more of the Com<g ref="char:EOLhyphen"/>miſſioners.</p>
+            <p n="36">XXXVI. <hi>Walter Welſh, Walter Scudamore, Robert Pugh, John Barbor, George Millner,
+Thomas Heron, John Hughes, John Brampton, John Moland, Robert Paine, George Rider, George Lambert,
+John Humphreyes, John Darbiſheire, William Cooper, Edward Go<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wyn, Samuell Bull, John Coghlan,
+Skarning Philips, Lominick Dean, Samuel Moſely,</hi> are ſworn and appointed Attournies and
+hereby authorized to practiſe before the ſaid Commiſſioners.</p>
+            <p n="37">XXXVII. <hi>Thomas Taylor, Thomas Syms, John Burniſton,</hi> and <hi>John Petty</hi>
+Gentlemen, are hereby appointed Sub-Commiſſioners.</p>
+            <p n="38">XXXVIII. And whereas ſeverall Periods mentioned in the ſaid explana<g ref="char:EOLhyphen"/>tory Act are to
+begin and commence from the firſt day of the ſitting of the Commiſſioners for the Execution
+of the ſaid Act, the firſt day of their ſitting in Execution of the ſaid Act is hereby
+declared to be Thurſday the fourth day of <hi>January</hi> 1665, from which day all the ſaid
+Periods limited as aforeſaid are to begin, and all perſons concerned therein are to take notice
+thereof accordingly.</p>
+            <pb n="12" facs="tcp:154227:8"/>
+            <p>Theſe Rules, Orders, and Directions and ſuch further Rules, and Orders as ſhall hereafter
+be given and appointed by the ſaid Commisſioners for the better and more ſpeedy Execution of
+the ſaid Acts, are to be obſerved by all Councellors at Law, Attournies and Officers of the
+ſaid Court and all other perſons concerned therein reſpectively.</p>
+            <closer>
+               <dateline>Dated at the Kings Inns <hi>Dublin</hi>
+                  <date>
+                     <hi>January</hi> 5, 1665</date>
+               </dateline>
+               <signed>Signed and publiſhed by Order of His Majeſties Commiſſioners.
+<list>
+                     <item>
+                        <hi>George Philips,</hi>
+                     </item>
+                     <item>
+                        <hi>John Jeffreys.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:154227:8"/>
+            <pb facs="tcp:154227:9"/>
+            <pb facs="tcp:154227:9" rendition="simple:additions"/>
+            <pb facs="tcp:154227:10" rendition="simple:additions"/>
+            <pb facs="tcp:154227:10" rendition="simple:additions"/>
+            <pb facs="tcp:154227:11" rendition="simple:additions"/>
+            <pb facs="tcp:154227:11" rendition="simple:additions"/>
+            <pb facs="tcp:154227:12" rendition="simple:additions"/>
+            <pb facs="tcp:154227:12" rendition="simple:additions"/>
+            <pb facs="tcp:154227:13" rendition="simple:additions"/>
+            <pb facs="tcp:154227:13" rendition="simple:additions"/>
+            <pb facs="tcp:154227:14" rendition="simple:additions"/>
+            <pb facs="tcp:154227:14" rendition="simple:additions"/>
+            <pb facs="tcp:154227:15" rendition="simple:additions"/>
+            <pb facs="tcp:154227:15" rendition="simple:additions"/>
+            <pb facs="tcp:154227:16" rendition="simple:additions"/>
+            <pb facs="tcp:154227:16" rendition="simple:additions"/>
+            <pb facs="tcp:154227:17" rendition="simple:additions"/>
+            <pb facs="tcp:154227:17" rendition="simple:additions"/>
+            <pb facs="tcp:154227:18" rendition="simple:additions"/>
+            <pb facs="tcp:154227:18"/>
+            <pb facs="tcp:154227:19"/>
+            <pb facs="tcp:154227:19" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
